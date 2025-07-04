@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,C,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,116.2,-81.473,90.0,top
+C2,C,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,124.587,-88.199,-90.0,top
+C3,C,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,129.5,-88.3625,90.0,top
+C4,C,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,129.5,-84.3625,-90.0,top
+F1,Polyfuse,Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder,125.727,-84.201,0.0,top
+U1,ATtiny1616-M,VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm,119.708,-82.05,270.0,top
+U2,74HC14,SO-14_3.9x8.65mm_P1.27mm,119.699,-91.059,270.0,top

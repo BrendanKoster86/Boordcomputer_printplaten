@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC,Quantity
+C,"C3,C4",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1623,2
+C,"C1,C2",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1644,2
+Polyfuse,F1,Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C269105,1
+ATtiny1616-M,U1,VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm,C507118,1
+74HC14,U2,SO-14_3.9x8.65mm_P1.27mm,C5605,1
