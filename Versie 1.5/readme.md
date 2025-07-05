@@ -19,7 +19,7 @@ Sensor printplaat:
 BPC 1.5.32.250607d
 gefaalde testen:
 Ingang kanaal 3 = zwevend ... Soldeer een 10K weerstand tussen de ingang en -
-Ingang kanaal 7 komt niet aan bij de boordcomputer ... nog geen oplossing
+Kanaal 7 werkt niet... Herstel is erg lastig, er moet verbinding worden gemaakt tussen het 2e pinnetje (van links) op de bovenste rij van de bovenste weerstandsnetwerk en een 3,3 volt (lv) punt. Bijvoorbeeld het 3e pinnetje van rechts onder op de 30 pins connector, of het 2e pinnetje (van links) op de bovenste rij van een bovenste netwerkweerstand op een ander kanaal.
 nog niet getest:
 werking test jumper
 verborgen kanalen 4 en 8
